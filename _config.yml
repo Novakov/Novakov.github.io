@@ -37,6 +37,8 @@ menu:
   - title: 'Pather'
     url: 'http://github.com/Novakov/Pather'
 
+google_analytics: 'UA-74640571-1'
+
 # Build settings
 markdown: kramdown
 
