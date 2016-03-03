@@ -30,8 +30,12 @@ paginate: 5
 menu:
   - title: 'Home'
     url: '/'
+  - title: 'Tagi'
+    url: '/tags'
   - title: 'GitHub'
     url: 'http://github.com/Novakov'
+  - title: 'Pather'
+    url: 'http://github.com/Novakov/Pather'
 
 # Build settings
 markdown: kramdown
