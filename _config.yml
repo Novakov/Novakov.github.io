@@ -2,6 +2,7 @@
 title: Novakov's notes of code
 description: Maciej 'Novakov' Nowak and his adventures with code
 baseurl: "" # the subpath of your site, e.g. /blog
+disqus_shortname: novakovsnotesofcode
 #url: "http://novakov.github.io" # the base hostname & protocol for your site
 
 timezone: Europe/Warsaw
