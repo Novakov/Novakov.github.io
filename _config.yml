@@ -25,6 +25,7 @@ defaults:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-coffeescript
 
 paginate: 5
 
@@ -41,7 +42,17 @@ menu:
 google_analytics: 'UA-74640571-1'
 
 # Build settings
+lsi: false
+safe: false
+highlighter: rouge
+gist:
+  noscript: false
+
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: true
 
 sass:
   sass_dir: _sass
