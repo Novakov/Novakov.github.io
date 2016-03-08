@@ -514,6 +514,10 @@ ul.social-buttons li a:active {
 	p {
 		color: $white;
 	}
+
+	.entry-date {
+		color: lighten($base-color, 40);
+	}
 }
 .header-menu {
 	position: fixed;
