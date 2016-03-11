@@ -5,6 +5,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 disqus_shortname: novakovsnotesofcode
 #url: "http://novakov.github.io" # the base hostname & protocol for your site
 
+# Pather repo
+repo:
+  base: https://github.com/Novakov/Pather
+
 timezone: Europe/Warsaw
 
 owner:
@@ -26,6 +30,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-coffeescript
+  - jekyll-gist
 
 paginate: 5
 
