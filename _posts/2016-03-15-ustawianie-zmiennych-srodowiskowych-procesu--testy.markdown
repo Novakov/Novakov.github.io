@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ustawianie zmiennych środowiskowych procesu - implementacja"
-date: "2016-03-11 18:39:51 +0100"
+title: "Ustawianie zmiennych środowiskowych procesu - testy"
+date: "2016-03-15 08:27:01 +0100"
 tags: [dajsiepoznac]
 ---
 Po przydługowamy opisie tego co daje nam Windows przyszła chwila na trochę kodu. Jako, że jednym z celów tego projektu jest poznanie nieznanego postanowiłem wykorzystać **F#**-a  ([http://fsharp.org/](http://fsharp.org/)), czyli funkcjyny język z rodziny .NET.
